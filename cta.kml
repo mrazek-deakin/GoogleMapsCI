@@ -64,8 +64,8 @@
       <LineString>
         <altitudeMode>relative</altitudeMode>
         <coordinates>
-        -27.447676,153.037614,0
-        -27.579249,153.062558,0
+        153.037614,-27.447676,0
+        153.062558,-27.579249,0
         </coordinates>
       </LineString>
     </Placemark>
