@@ -18,7 +18,7 @@
     <Style id="redLine">
       <LineStyle>
         <color>ff0000ff</color>
-        <width>4</width>
+        <width>7</width>
       </LineStyle>
     </Style>
     <Style id="greenLine">
