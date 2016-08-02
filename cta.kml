@@ -67,5 +67,16 @@
         </coordinates>
       </LineString>
     </Placemark>
+    <Placemark>
+      <name>Blue Line</name>
+      <styleUrl>#blueLine</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+        153.037614,-27.447676,0 153.062558,-27.579249,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
   </Document>
 </kml>
