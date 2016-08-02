@@ -77,5 +77,15 @@
         </coordinates>
       </LineString>
     </Placemark>
+    <Placemark>
+      <name>153.037614,-27.447676,0 153.054688,-27.60879,0</name>
+      <styleUrl>#redLine</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+        153.037614,-27.447676,0 153.037614,-27.447676,0
+        </coordinates>
+      </LineString>
+    </Placemark>
   </Document>
 </kml>
