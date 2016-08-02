@@ -57,7 +57,6 @@
         <width>4</width>
       </LineStyle>
     </Style>
-
     <Placemark>
       <name>Blue Line</name>
       <styleUrl>#blueLine</styleUrl>
@@ -69,7 +68,5 @@
         </coordinates>
       </LineString>
     </Placemark>
-
-
   </Document>
 </kml>
